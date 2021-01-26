@@ -1,7 +1,7 @@
 # Holidates
 
 
-## Display all holidays of a year in wich country who want !
+## Display my visit card !
 
 ![alt text](https://media.giphy.com/media/nCSD6GQcXlQI0/giphy.gif)
 
